@@ -1,2 +1,2 @@
-# maxweber03-github.io
+# maxweber03.github.io
 Profile Page
